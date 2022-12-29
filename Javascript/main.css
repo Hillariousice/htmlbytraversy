@@ -1,0 +1,48 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    margin: 0;
+}
+.container{
+    margin: 0 auto;
+    padding: 0 15px;
+    width: 100%;
+}
+#my-form{
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    margin: 0 auto;
+    padding: 15px;
+    width: 100%;
+}
+.btn{
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    color: #333333;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    margin-bottom: 0;
+    padding: 6px 12px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+.bg-dark{
+    background: #333;
+    color:#fff;
+}
+
+.error{
+    background-color: orangered;
+    color: #fff;
+    padding: 5px;
+    margin: 5px;
+}
